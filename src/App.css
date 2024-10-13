@@ -1,0 +1,10 @@
+.editor-container {
+  display: flex;
+  justify-content: center; /* Centers the editor horizontally */
+  align-items: center; /* Centers the editor vertically */
+  height: 100vh;
+}
+
+.mce-tinymce {
+  width: 60%; /* Adjust the editor width as needed */
+}
